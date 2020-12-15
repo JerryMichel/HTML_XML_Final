@@ -107,7 +107,7 @@ a {
 /* IDs */
 
 #emp1 {
-  background-image: url("media/emp1.jpg");
+  background-image: url("emp1.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -116,7 +116,7 @@ a {
 }
 
 #emp2 {
-  background-image: url("media/emp2.jpg");
+  background-image: url("emp2.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -125,7 +125,7 @@ a {
 }
 
 #emp3 {
-  background-image: url("media/emp3.jpg");
+  background-image: url("emp3.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -167,7 +167,7 @@ a {
 }
 
 #mainback {
-  background-image: url("media/1pizza.jpg");
+  background-image: url("1pizza.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
